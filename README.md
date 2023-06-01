@@ -40,3 +40,10 @@ const names = [
 Fügen Sie neue Namen hinzu oder entfernen Sie bestehende Namen, um die Liste anzupassen. Speichern Sie die Datei und laden Sie die Seite im Webbrowser neu, um die Änderungen wirksam werden zu lassen.
 
 Bitte beachten Sie, dass dieser Zufallsgenerator nur eine einfache Demonstration ist und nicht für kryptografische Anwendungen geeignet ist.
+
+## Bug
+
+Hier soll das Bild neu erstellt werden.
+Den grünen Knopf am Generator anklicken, ein Screenshot erstellen und gegen das vorherige Beispielbild (generator.png) ersetzen.
+
+Das Ergebnis, das unter dem Bildlink  angezeigt wird, statt (Max-Muster) den generierten Namen einfügen.
